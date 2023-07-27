@@ -1,0 +1,5 @@
+Credentials cache: API:4689CBB6-5FB1-4FB1-BFA8-E7E562E6CDDB
+        Principal: mabdelou@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 20:12:32 2021  Aug  9 20:12:21 2021  krbtgt/1337.MA@1337.MA
